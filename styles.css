@@ -14,7 +14,7 @@ figcaption{
     border-width: 1pt;
     border-color: blue;
     border-radius: 25px;
-    color: rgb(246, 1, 1);
+    color: red;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -33,4 +33,7 @@ body{
     background-color:rgb(216, 125, 125);
     margin: 8px;
     display: block;
+}
+.funParagraph {
+    color: green;
 }
