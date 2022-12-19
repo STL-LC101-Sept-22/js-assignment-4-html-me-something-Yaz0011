@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+img{
+    height: 400px;
+    display:block;
+}
+
+/* target all figcaption */
+figcaption{
+    font-style: italic;
+    font-size: small;
+}
+#mainHeading{
+    border-style: dotted;
+    border-width: 1pt;
+    border-color: blue;
+    border-radius: 25px;
+    color: red;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#mainHeading a {
+    color: blue;
+    text-decoration: none;
+}
+#mainHeading a:hover {
+    text-decoration: underline;
+    font-size: large;
+}
+.favorite {
+    text-decoration: underline;
+}
+body{
+    background-color:rgb(216, 125, 125);
+    margin: 8px;
+    display: block;
+}
+.funParagraph {
+    color: green;
+}
